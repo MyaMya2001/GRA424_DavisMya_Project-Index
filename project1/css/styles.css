@@ -1,0 +1,66 @@
+.new-webpage-format {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    background-color: grey;
+}
+
+.original-project-form {
+    display: flex;
+    margin: auto;
+    width: 71.428571vh;
+    height: 71.428571vh;
+    background-color: white;
+}
+
+.original-form-two {
+    display: flex;
+    margin: auto;
+    width: 42.857143vh;
+    height: 42.857143vh;
+    background-color: black;
+}
+
+.original-form-one {
+    display: flex;
+    margin: auto;
+    width: 14.285714vh;
+    height: 14.285714vh;
+    background-color: white;
+}
+
+.new-webpage-format-two {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    background-color: grey;
+}
+
+.original-project-form-two {
+    display: flex;
+    margin: auto;
+    width: 71.428571vh;
+    height: 71.428571vh;
+    background-color: white;
+}
+
+.original-form-two-two {
+    display: flex;
+    margin: auto;
+    width: 42.857143vh;
+    height: 42.857143vh;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.original-form-one-two {
+    display: flex;
+    margin: auto;
+    width: 14.285714vh;
+    height: 14.285714vh;
+    background-color: black;
+}
