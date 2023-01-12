@@ -1,6 +1,7 @@
 .new-webpage-format-b {
     display: flex;
     margin: auto;
+    overflow: hidden;
     width: 100%;
     height: 100%;
     background-color: white;
@@ -104,4 +105,83 @@
     height: 42.857143vh;
     margin: auto;
     display: flex;
+}
+
+.backgroundlines-left {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    margin-left: 0;
+    display: flex;
+}
+
+.backgroundlines-right {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    margin-right: 0;
+    display: flex;
+}
+
+.original-form-two-b-lines {
+    display: flex;
+    margin: auto;
+    overflow: hidden;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    position: relative;
+    top: -28.17384281vh;
+    
+}
+
+.firstwhitelines1 {
+    display:flex;
+    transform: rotate(20deg);
+    background-color: aquamarine;
+    width: 1.86335404vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
+}
+
+.firstwhitelines2 {
+    display:flex;
+    transform: rotate(20deg);
+    background-color: aquamarine;
+    width: 1.86335404vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
+}
+
+.firstwhitelines3 {
+    display:flex;
+    transform: rotate(20deg);
+    background-color: aquamarine;
+    width: 1.86335404vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
+}
+
+.firstwhitelines4 {
+    display:flex;
+    transform: rotate(20deg);
+    background-color: aquamarine;
+    width: 1.86335404vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
+}
+
+.firstwhitelines5 {
+    display:flex;
+    transform: rotate(20deg);
+    background-color: aquamarine;
+    width: 1.86335404vw;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
 }
