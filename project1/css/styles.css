@@ -2,31 +2,34 @@
     display: flex;
     margin: auto;
     width: 100%;
-    height: 100vh;
-    background-color: grey;
+    height: 100vw;
+    background-color: white;
 }
 
 .original-project-form {
     display: flex;
     margin: auto;
-    width: 71.428571vh;
-    height: 71.428571vh;
+    width: 71.428571vw;
+    height: 71.428571vw;
     background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
 }
 
 .original-form-two {
     display: flex;
     margin: auto;
-    width: 42.857143vh;
-    height: 42.857143vh;
+    width: 42.857143vw;
+    height: 42.857143vw;
     background-color: black;
 }
 
 .original-form-one {
     display: flex;
     margin: auto;
-    width: 14.285714vh;
-    height: 14.285714vh;
+    width: 14.285714vw;
+    height: 14.285714vw;
     background-color: white;
 }
 
@@ -34,19 +37,96 @@
     display: flex;
     margin: auto;
     width: 100%;
-    height: 100vh;
-    background-color: grey;
+    height: 100vw;
+    background-color: white;
 }
 
 .original-project-form-two {
     display: flex;
     margin: auto;
-    width: 71.428571vh;
-    height: 71.428571vh;
+    width: 71.428571vw;
+    height: 71.428571vw;
     background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
 }
 
 .original-form-two-two {
+    display: flex;
+    margin: auto;
+    width: 42.857143vw;
+    height: 42.857143vw;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.original-form-one-two {
+    display: flex;
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vw;
+    background-color: black;
+}
+
+
+.new-webpage-format-a {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+}
+
+.original-project-form-a {
+    display: flex;
+    margin: auto;
+    width: 71.428571vh;
+    height: 71.428571vh;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.original-form-two-a {
+    display: flex;
+    margin: auto;
+    width: 42.857143vh;
+    height: 42.857143vh;
+    background-color: black;
+}
+
+.original-form-one-a {
+    display: flex;
+    margin: auto;
+    width: 14.285714vh;
+    height: 14.285714vh;
+    background-color: white;
+}
+
+.new-webpage-format-two-a {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+}
+
+.original-project-form-two-a {
+    display: flex;
+    margin: auto;
+    width: 71.428571vh;
+    height: 71.428571vh;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.original-form-two-two-a {
     display: flex;
     margin: auto;
     width: 42.857143vh;
@@ -57,10 +137,83 @@
     border-width: 1px;
 }
 
-.original-form-one-two {
+.original-form-one-two-a {
     display: flex;
     margin: auto;
     width: 14.285714vh;
     height: 14.285714vh;
+    background-color: black;
+}
+
+.new-webpage-format-b {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.original-project-form-b {
+    display: flex;
+    margin: auto;
+    width: 71.428571%;
+    height: 71.428571%;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.original-form-two-b {
+    display: flex;
+    margin: auto;
+    width: 42.857143%;
+    height: 42.857143%;
+    background-color: black;
+}
+
+.original-form-one-b {
+    display: flex;
+    margin: auto;
+    width: 14.285714%;
+    height: 14.285714%;
+    background-color: white;
+}
+
+.new-webpage-format-two-b {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.original-project-form-two-b {
+    display: flex;
+    margin: auto;
+    width: 71.428571%;
+    height: 71.428571%;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.original-form-two-two-b {
+    display: flex;
+    margin: auto;
+    width: 42.857143%;
+    height: 42.857143%;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+}
+
+.original-form-one-two-b {
+    display: flex;
+    margin: auto;
+    width: 14.285714%;
+    height: 14.285714%;
     background-color: black;
 }
