@@ -141,55 +141,55 @@
     height: 14.285714vh;
     position: relative;
     top: -28.17384281vh;
-    
+    transform: rotate(90deg);
 }
 
 .firstwhitelines1 {
     display:flex;
-    transform: rotate(10deg);
-    background-color: aquamarine;
+    transform: rotate(-20deg);
+    background-color: white;
     width: 1.86335404vw;
-    height: 30vh;
+    height: 17vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines2 {
       display:flex;
-    transform: rotate(20deg);
-    background-color: aquamarine;
+    transform: rotate(-10deg);
+    background-color: white;
     width: 1.86335404vw;
-    height: 30vh;
+    height: 17vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines3 {
     display:flex;
-    transform: rotate(30deg);
-    background-color: aquamarine;
+    transform: rotate(0deg);
+    background-color: white;
     width: 1.86335404vw;
-    height: 30vh;
+    height: 17vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines4 {
     display:flex;
-    transform: rotate(40deg);
-    background-color: aquamarine;
+    transform: rotate(10deg);
+    background-color: white;
     width: 1.86335404vw;
-    height: 30vh;
+    height: 17vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines5 {
     display:flex;
-    transform: rotate(50deg);
-    background-color: aquamarine;
+    transform: rotate(20deg);
+    background-color: white;
     width: 1.86335404vw;
-    height: 30vh;
+    height: 17vh;
     margin: auto;
     margin-top: -1vh;
 }
