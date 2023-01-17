@@ -204,17 +204,19 @@
 
 .toplines2-container {
     display: flex;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0);
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
     overflow: hidden;
+    position: relative;
+    top: -57.142857vh;
 }
 
 .backgroundlines-left2 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(-25deg);
@@ -226,7 +228,7 @@
 .backgroundlines2-1 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(-20deg);
@@ -236,7 +238,7 @@
 .backgroundlines2-2 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(-15deg);
@@ -247,7 +249,7 @@
 .backgroundlines2-3 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(-10deg);
@@ -258,7 +260,7 @@
 .backgroundlines-24 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(-5deg);
@@ -269,7 +271,18 @@
 .backgroundlines2-5 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(-2.5deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-10 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(0deg);
@@ -277,10 +290,21 @@
 
 }
 
+.backgroundlines2-11 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 57.142857vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(2.5deg);
+    margin-top: -1vh;
+
+}
+
 .backgroundlines2-6 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(5deg);
@@ -291,7 +315,7 @@
 .backgroundlines2-7 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(10deg);
@@ -302,7 +326,7 @@
 .backgroundlines2-8 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(15deg);
@@ -313,7 +337,7 @@
 .backgroundlines2-9 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(20deg);
@@ -324,7 +348,7 @@
 .backgroundlines-right2 {
     background-color: black;
     width: 1.86335404vw;
-    height: 42.857143vh;
+    height: 57.142857vh;
     margin: auto;
     display: flex;
     transform:rotate(25deg);
