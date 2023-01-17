@@ -99,6 +99,13 @@
     background-color: white;
 }
 
+.original-form-two-lines2 {
+    background-color: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
 .backgroundlines {
     background-color: black;
     width: 1.86335404vw;
@@ -129,6 +136,7 @@
     display: flex;
     margin: auto;
     overflow: hidden;
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%);
     width: 14.285714vw;
     height: 14.285714vh;
     position: relative;
@@ -138,50 +146,198 @@
 
 .firstwhitelines1 {
     display:flex;
-    transform: rotate(20deg);
+    transform: rotate(10deg);
     background-color: aquamarine;
     width: 1.86335404vw;
-    height: 17vh;
+    height: 30vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines2 {
-    display:flex;
+      display:flex;
     transform: rotate(20deg);
     background-color: aquamarine;
     width: 1.86335404vw;
-    height: 17vh;
+    height: 30vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines3 {
     display:flex;
-    transform: rotate(20deg);
+    transform: rotate(30deg);
     background-color: aquamarine;
     width: 1.86335404vw;
-    height: 17vh;
+    height: 30vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines4 {
     display:flex;
-    transform: rotate(20deg);
+    transform: rotate(40deg);
     background-color: aquamarine;
     width: 1.86335404vw;
-    height: 17vh;
+    height: 30vh;
     margin: auto;
     margin-top: -1vh;
 }
 
 .firstwhitelines5 {
     display:flex;
-    transform: rotate(20deg);
+    transform: rotate(50deg);
     background-color: aquamarine;
     width: 1.86335404vw;
-    height: 17vh;
+    height: 30vh;
     margin: auto;
     margin-top: -1vh;
+}
+
+.backgroundlines-container {
+    display: flex;
+    background-color: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.toplines2-container {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+    overflow: hidden;
+}
+
+.backgroundlines-left2 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(-25deg);
+    margin-left: 0;
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-1 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(-20deg);
+    margin-top: -1vh;
+}
+
+.backgroundlines2-2 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(-15deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-3 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(-10deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines-24 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(-5deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-5 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(0deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-6 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(5deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-7 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(10deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-8 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(15deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines2-9 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(20deg);
+    margin-top: -1vh;
+
+}
+
+.backgroundlines-right2 {
+    background-color: black;
+    width: 1.86335404vw;
+    height: 42.857143vh;
+    margin: auto;
+    display: flex;
+    transform:rotate(25deg);
+    margin-right: 0;
+    margin-top: -1vh;
+
+}
+
+.lineslol {
+    display: flex;
+    margin: auto;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    border: 1px solid rgb(100, 100, 100);
+    object-fit: fill;
 }
