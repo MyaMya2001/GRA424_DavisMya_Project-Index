@@ -603,7 +603,101 @@
     width: 42.857143vw;
     height: 42.857143vh;
     background-color: white;
-    border-style: solid;
-    border-color:lightgrey;
-    border-width: 1px;
 }
+
+.trans1 {
+    display: flex;
+    width: 42.857143vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+
+.trans2 {
+    display: flex;
+    width: 42.857143vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+
+.trans3 {
+    display: flex;
+    width: 42.857143vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+
+.color-t1 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #2B338A;
+}
+
+.color-t2 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #2B338A;
+}
+
+.color-t3 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+}
+
+.color-t4 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #2B338A;
+}
+
+.color-t5 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #5E50A2;
+}
+
+.color-t5-2 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #BDA9D2;
+}
+
+.color-t5-3 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #7668AC;
+}
+
+.color-t6 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #EBCBD9;
+}
+
+.color-t7 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+}
+
+.color-t8 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #EBCBD9;
+}
+
+.color-t9 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #EBCBD9;
+}
+
