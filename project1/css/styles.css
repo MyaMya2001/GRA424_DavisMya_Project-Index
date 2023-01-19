@@ -394,6 +394,18 @@
     top: -85.714285vh;
 }
 
+.smallwhitecontainer2 {
+    display: flex;
+    margin: auto;
+    overflow: hidden;
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%);
+    width: 14.285714vw;
+    height: 14.285714vh;
+    position: relative;
+    top: -85.714285vh;
+    transform: rotate(-90deg);
+}
+
 .line-group {
     position: relative;
     bottom: 11.3vh;
@@ -401,50 +413,55 @@
 }
 
 .lastwhite1 {
-    transform: rotate(80deg);
+    display:flex;
+    transform: rotate(-10deg);
     background-color: white;
     width:.92667702vw;
-    height: 25vh;
-    margin-right:-20vh;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
 
 }
 
 .lastwhite2 {
-    transform: rotate(85deg);
+    display:flex;
+    transform: rotate(-5deg);
     background-color: white;
     width:.92667702vw;
-    height: 25vh;
-    margin-top: -22vh;
-    margin-right:-20vh;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
 }
 
 .lastwhite3 {
-    transform: rotate(90deg);
+    display:flex;
+    transform: rotate(0deg);
     background-color: white;
     width:.92667702vw;
-    height: 25vh;
-    margin-top: -22vh;
-    margin-right:auto;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
 
 }
 
 .lastwhite4 {
-    transform: rotate(95deg);
+    display:flex;
+    transform: rotate(5deg);
     background-color: white;
     width:.92667702vw;
-    height:25vh;
-    margin-top:-22vh;
-    margin-right:auto;
-
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
 }
 
 .lastwhite5 {
-    transform: rotate(100deg);
+    display:flex;
+    transform: rotate(10deg);
     background-color: white;
     width:.92667702vw;
-    height: 25vh;
-    margin-top:-22vh;
-    margin-right:auto;
+    height: 17vh;
+    margin: auto;
+    margin-top: -1vh;
 }
 
 .lastwhite1-1 {
@@ -775,4 +792,68 @@
     margin: auto;
     margin-right: 7.142857vw;
     background-color: #D3AEBA;
+}
+
+.valuerow1 {    
+    display: flex;
+}
+
+.valuerow2 {    
+    display: flex;
+}
+
+.topleft {
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #147666;
+}
+
+.smalltopleft {
+    width: 7.142857vw;
+    height: 7.142857vh;
+    margin-left: 14.285714vw;
+    margin-top: 14.285714vh;
+    background-color: #F26922;
+}
+
+.topright {
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #27806B;
+}
+
+.smalltopright {
+    width: 7.142857vw;
+    height: 7.142857vh;
+    margin-right: 14.285714vw;
+    margin-top: 14.285714vh;
+    background-color: #F57E35;
+}
+
+.bottomleft {
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #68B29B;
+}
+
+.smallbottomleft {
+    width: 7.142857vw;
+    height: 7.142857vh;
+    margin-left: 14.285714vw;
+    margin-bottom: 14.285714vh;
+    background-color: #FAAD63;
+}
+
+.bottomright {
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #46A087;
+}
+
+.smallbottomright {
+    width: 7.142857vw;
+    height: 7.142857vh;
+    margin-right: 14.285714vw;
+    margin-bottom: 14.285714vh;
+    background-color: #F89E51;
 }
