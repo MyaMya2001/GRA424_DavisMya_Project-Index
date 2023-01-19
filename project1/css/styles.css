@@ -701,3 +701,78 @@
     background-color: #EBCBD9;
 }
 
+.section1 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    margin: auto;
+    background-color: #222A44;
+}
+
+.section2 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    margin: auto;
+    background-color: #F9E265;
+}
+
+.fourthree-1 {
+    width: 7.142857vw;
+    height: 14.285714vh;
+    margin: auto;
+    background-color: #00716D;
+}
+
+.fourthree-2 {
+    width: 7.142857vw;
+    height: 14.285714vh;
+    margin: auto;
+    background-color: #1F7B6A;
+}
+
+.section3 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    margin: auto;
+    background-color: #F15D3E;
+}
+
+.section4 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 42.857143vh;
+    margin: auto;
+    background-color: #60C092;
+}
+
+.fivesix-1 {
+    width: 7.142857vw;
+    height: 14.285714vh;
+    margin: auto;
+    margin-left: 7.142857vw;
+    background-color: #D3AEBA;
+}
+
+.fivesix-2 {
+    width: 7.142857vw;
+    height: 42.857143vh;
+    margin: auto;
+    background-color: #F5E1A4;
+}
+
+.fivesix-3 {
+    width: 7.142857vw;
+    height: 42.857143vh;
+    margin: auto;
+    background-color: #AFD790;
+}
+
+.fivesix-4 {
+    width: 7.142857vw;
+    height: 14.285714vh;
+    margin: auto;
+    margin-right: 7.142857vw;
+    background-color: #D3AEBA;
+}
