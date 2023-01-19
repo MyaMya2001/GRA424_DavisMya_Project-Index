@@ -99,7 +99,7 @@
     background-color: white;
 }
 
-.original-form-two-lines2 {
+.boxbox {
     background-color: #fff;
     width: 42.857143vw;
     height: 42.857143vh;
@@ -132,7 +132,18 @@
     display: flex;
 }
 
-.original-form-two-b-lines {
+.whitelines-containerlol {
+    display: flex;
+    margin: auto;
+    overflow: hidden;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    position: relative;
+    top: -28.17384281vh;
+    transform: rotate(90deg);
+}
+
+.whitelines-container {
     display: flex;
     margin: auto;
     overflow: hidden;
@@ -142,6 +153,12 @@
     position: relative;
     top: -28.17384281vh;
     transform: rotate(90deg);
+}
+
+.line-grouplol {
+    position: relative;
+    bottom: 11.3vh;
+    right:-4vh;
 }
 
 .firstwhitelines1 {
@@ -216,7 +233,7 @@
 .backgroundlines-left2 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(-25deg);
@@ -228,7 +245,7 @@
 .backgroundlines2-1 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(-20deg);
@@ -238,7 +255,7 @@
 .backgroundlines2-2 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(-15deg);
@@ -249,7 +266,7 @@
 .backgroundlines2-3 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(-10deg);
@@ -260,7 +277,7 @@
 .backgroundlines-24 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(-5deg);
@@ -271,7 +288,7 @@
 .backgroundlines2-5 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(-2.5deg);
@@ -282,7 +299,7 @@
 .backgroundlines2-10 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(0deg);
@@ -293,7 +310,7 @@
 .backgroundlines2-11 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(2.5deg);
@@ -304,7 +321,7 @@
 .backgroundlines2-6 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(5deg);
@@ -315,7 +332,7 @@
 .backgroundlines2-7 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(10deg);
@@ -326,7 +343,8 @@
 .backgroundlines2-8 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(15deg);
@@ -337,7 +355,7 @@
 .backgroundlines2-9 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(20deg);
@@ -348,7 +366,7 @@
 .backgroundlines-right2 {
     background-color: black;
     width: 1.86335404vw;
-    height: 57.142857vh;
+    height: 71.428571vh;
     margin: auto;
     display: flex;
     transform:rotate(25deg);
@@ -364,4 +382,228 @@
     height: 71.428571vh;
     border: 1px solid rgb(100, 100, 100);
     object-fit: fill;
+}
+
+.smallwhitecontainer {
+    margin: auto;
+    transform: rotate(180deg);
+    overflow: hidden;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    position: relative;
+    top: -85.714285vh;
+}
+
+.line-group {
+    position: relative;
+    bottom: 11.3vh;
+    right:-4vh;
+}
+
+.lastwhite1 {
+    transform: rotate(80deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-right:-20vh;
+
+}
+
+.lastwhite2 {
+    transform: rotate(85deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-top: -22vh;
+    margin-right:-20vh;
+}
+
+.lastwhite3 {
+    transform: rotate(90deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-top: -22vh;
+    margin-right:auto;
+
+}
+
+.lastwhite4 {
+    transform: rotate(95deg);
+    background-color: white;
+    width:.92667702vw;
+    height:25vh;
+    margin-top:-22vh;
+    margin-right:auto;
+
+}
+
+.lastwhite5 {
+    transform: rotate(100deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-top:-22vh;
+    margin-right:auto;
+}
+
+.lastwhite1-1 {
+    transform: rotate(80deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-right:-20vh;
+
+}
+
+.lastwhite2-1 {
+    transform: rotate(85deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-top: -22vh;
+    margin-right:-20vh;
+}
+
+.lastwhite3-1 {
+    transform: rotate(90deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-top: -22vh;
+    margin-right:auto;
+
+}
+
+.lastwhite4-1 {
+    transform: rotate(95deg);
+    background-color: white;
+    width:.92667702vw;
+    height:25vh;
+    margin-top:-22vh;
+    margin-right:auto;
+
+}
+
+.lastwhite5-1 {
+    transform: rotate(100deg);
+    background-color: white;
+    width:.92667702vw;
+    height: 25vh;
+    margin-top:-22vh;
+    margin-right:auto;
+
+}
+
+.imagebaby {
+    display: flex;
+    margin: auto;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    object-fit: fill;
+    margin-bottom: 15vw;
+    margin-top: 14.25vh;
+    border: 1px solid rgb(172, 172, 172);
+}
+
+.image-container {
+    display: flex;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.colorrow1 {
+    display: flex;
+    width: 42.857143vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+
+.colorrow2 {
+    display: flex;
+    width: 42.857143vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+
+.colorrow3 {
+    display: flex;
+    width: 42.857143vw;
+    height: 14.285714vh;
+    margin: auto;
+}
+
+.color-sq1 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #1B4750;
+}
+
+.color-sq2 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #AF88BE;
+}
+
+.color-sq3 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #D22C4B;
+}
+
+.color-sq4 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #0E4B38;
+}
+
+.color-sq5 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #A8A5D2;
+}
+
+.color-sq6 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #98A63A;
+}
+
+.color-sq7 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #5E50A2;
+}
+
+.color-sq8 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #A9BCBA;
+}
+
+.color-sq9 {
+    margin: auto;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #3F547F;
+}
+
+.original-form-two-two-b-2 {
+    margin: auto;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    background-color: white;
+    border-style: solid;
+    border-color:lightgrey;
+    border-width: 1px;
 }
