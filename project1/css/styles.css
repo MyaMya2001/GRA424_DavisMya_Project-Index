@@ -147,7 +147,6 @@
     display: flex;
     margin: auto;
     overflow: hidden;
-    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%);
     width: 14.285714vw;
     height: 14.285714vh;
     position: relative;
@@ -416,7 +415,7 @@
     display:flex;
     transform: rotate(-10deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 17vh;
     margin: auto;
     margin-top: -1vh;
@@ -427,7 +426,7 @@
     display:flex;
     transform: rotate(-5deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 17vh;
     margin: auto;
     margin-top: -1vh;
@@ -437,7 +436,7 @@
     display:flex;
     transform: rotate(0deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 17vh;
     margin: auto;
     margin-top: -1vh;
@@ -448,7 +447,7 @@
     display:flex;
     transform: rotate(5deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 17vh;
     margin: auto;
     margin-top: -1vh;
@@ -458,7 +457,7 @@
     display:flex;
     transform: rotate(10deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 17vh;
     margin: auto;
     margin-top: -1vh;
@@ -467,7 +466,7 @@
 .lastwhite1-1 {
     transform: rotate(80deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 25vh;
     margin-right:-20vh;
 
@@ -476,7 +475,7 @@
 .lastwhite2-1 {
     transform: rotate(85deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 25vh;
     margin-top: -22vh;
     margin-right:-20vh;
@@ -495,7 +494,7 @@
 .lastwhite4-1 {
     transform: rotate(95deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height:25vh;
     margin-top:-22vh;
     margin-right:auto;
@@ -505,7 +504,7 @@
 .lastwhite5-1 {
     transform: rotate(100deg);
     background-color: white;
-    width:.92667702vw;
+    width: 1.86335404vw;
     height: 25vh;
     margin-top:-22vh;
     margin-right:auto;
