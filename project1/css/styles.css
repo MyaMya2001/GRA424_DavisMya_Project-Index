@@ -258,7 +258,7 @@
     margin: auto;
     display: flex;
     transform:rotate(-15deg);
-    margin-top: -1vh;
+    margin-top: -3vh;
 
 }
 
@@ -273,7 +273,7 @@
 
 }
 
-.backgroundlines-24 {
+.backgroundlines2-4 {
     background-color: black;
     width: 1.86335404vw;
     height: 71.428571vh;
@@ -347,7 +347,7 @@
     margin: auto;
     display: flex;
     transform:rotate(15deg);
-    margin-top: -1vh;
+    margin-top: -3vh;
 
 }
 
@@ -402,6 +402,7 @@
     height: 14.285714vh;
     position: relative;
     top: -85.714285vh;
+    bottom: 11.3vh;
     transform: rotate(-90deg);
 }
 
