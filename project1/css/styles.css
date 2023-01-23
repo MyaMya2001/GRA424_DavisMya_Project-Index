@@ -151,7 +151,7 @@
     height: 14.285714vh;
     position: relative;
     top: -28.17384281vh;
-    transform: rotate(90deg);
+    
 }
 
 .line-grouplol {
@@ -220,7 +220,6 @@
 
 .toplines2-container {
     display: flex;
-    background-color: rgba(255, 255, 255, 0);
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
@@ -409,7 +408,15 @@
 .line-group {
     position: relative;
     bottom: 11.3vh;
-    right:-4vh;
+    right:-13vh;
+}
+
+.line-group-two {
+    position: relative;
+    bottom: 11.3vh;
+    left:10vh;
+    width: 42vw;
+    height: 42vh;
 }
 
 .lastwhite1 {
@@ -485,7 +492,7 @@
 .lastwhite3-1 {
     transform: rotate(90deg);
     background-color: white;
-    width:.92667702vw;
+    width:1.86335404vw;
     height: 25vh;
     margin-top: -22vh;
     margin-right:auto;
